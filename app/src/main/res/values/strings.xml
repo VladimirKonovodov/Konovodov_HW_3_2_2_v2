@@ -21,5 +21,20 @@
     <string name="percent">%</string>
     <string name="clear">C</string>
     <string name="toCount">посчитаем?</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="log">log</string>
+    <string name="ln">ln</string>
+    <string name="set1">(</string>
+    <string name="set2">)</string>
+    <string name="degree">^</string>
+    <string name="sqrt">√</string>
+    <string name="fac">!</string>
+    <string name="Pi">Π</string>
+    <string name="exp">e</string>
+    <string name="inv">inv</string>
+    <string name="rad">RAD</string>
+    <string name="deg">DEG</string>
 </resources>
 

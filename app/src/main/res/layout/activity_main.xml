@@ -257,7 +257,7 @@
                 android:layout_weight="1"
                 android:layout_height="match_parent"
                 android:textAllCaps="false"
-                android:text="sin">
+                android:text="@string/sin">
             </Button>
             <Button
                 android:id="@+id/button22"
@@ -265,7 +265,7 @@
                 android:layout_weight="1"
                 android:layout_height="match_parent"
                 android:textAllCaps="false"
-                android:text="cos">
+                android:text="@string/cos">
             </Button>
             <Button
                 android:id="@+id/button23"
@@ -273,7 +273,7 @@
                 android:layout_weight="1"
                 android:layout_height="match_parent"
                 android:textAllCaps="false"
-                android:text="tan">
+                android:text="@string/tan">
             </Button>
             <Button
                 android:id="@+id/button24"
@@ -281,7 +281,7 @@
                 android:layout_weight="1"
                 android:layout_height="match_parent"
                 android:textAllCaps="false"
-                android:text="log">
+                android:text="@string/log">
             </Button>
             <Button
                 android:id="@+id/button25"
@@ -289,7 +289,7 @@
                 android:layout_weight="1"
                 android:layout_height="match_parent"
                 android:textAllCaps="false"
-                android:text="ln">
+                android:text="@string/ln">
             </Button>
         </LinearLayout>
 
@@ -307,35 +307,35 @@
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="match_parent"
-                android:text="(">
+                android:text="@string/set1">
             </Button>
             <Button
                 android:id="@+id/button27"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="match_parent"
-                android:text=")">
+                android:text="@string/set2">
             </Button>
             <Button
                 android:id="@+id/button28"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="match_parent"
-                android:text="^">
+                android:text="@string/degree">
             </Button>
             <Button
                 android:id="@+id/button29"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="match_parent"
-                android:text="\u221A">
+                android:text="@string/sqrt">
             </Button>
             <Button
                 android:id="@+id/button30"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="match_parent"
-                android:text="!">
+                android:text="@string/fac">
             </Button>
         </LinearLayout>
 
@@ -353,7 +353,7 @@
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="match_parent"
-                android:text="\u03A0"
+                android:text="@string/Pi"
                 android:textAllCaps="false"
                 >
 
@@ -364,7 +364,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:text="e"
+                android:text="@string/exp"
                 android:textAllCaps="false">
 
             </Button>
@@ -373,21 +373,21 @@
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="match_parent"
-                android:text="inv">
+                android:text="@string/inv">
             </Button>
             <Button
                 android:id="@+id/button34"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="match_parent"
-                android:text="RAD">
+                android:text="@string/rad">
             </Button>
             <Button
                 android:id="@+id/button35"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="match_parent"
-                android:text="DEG">
+                android:text="@string/deg">
             </Button>
 
         </LinearLayout>
